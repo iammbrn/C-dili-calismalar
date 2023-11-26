@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    
+    
+    printf("Hello World, I am MEHMET BARAN, computer engineer and student. I'm just at the beginning of the road, but I'm trying to improve myself to come to a good place in the future.");
+    
+    
+}

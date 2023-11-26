@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc,char* argv[])
+{
+    int a,b,sonuc=0;
+    
+    a=atoi(argv[1]);
+    b=atoi(argv[2]);
+    
+    sonuc=a+b;
+    
+    printf("Sonuc=%d\n",sonuc);
+    
+ 
+}

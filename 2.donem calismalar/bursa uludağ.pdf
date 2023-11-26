@@ -1,0 +1,122 @@
+
+Ders Öğretim Planı
+MATEMATİK I
+1	Dersin Adı:	MATEMATİK I
+2	Dersin Kodu:	MAT1071
+3	Dersin Türü:	Zorunlu
+4	Dersin Seviyesi:	Lisans
+5	Dersin Verildiği Yıl:	1
+6	Dersin Verildiği Yarıyıl:	1
+7	Dersin AKTS Kredisi:	6
+8	Teorik Ders Saati (saat/hafta):	3
+9	Uygulama Ders Saati (saat/hafta):	2
+10	Laboratuar Ders Saati (saat/hafta):	0
+11	Dersin Önkoşulu	yok
+12	Ders İçin Önerilen Diğer Hususlar	Yok
+13	Dersin Dili:	Türkçe
+14	Dersin Veriliş Şekli	Yüz yüze
+15	Dersin Koordinatörü:	Prof. Dr. İSMAİL NACİ CANGÜL
+16	Dersi Veren Diğer Öğretim Elemanları:	Matematik bölümünün tüm öğretim üyesi ve öğretim görevlileri
+17	Ders Koordinatörünün İletişim Bilgileri:	E-posta: cangul@uludag.edu.tr
+Telefon: +90 224 2941756
+
+
+Adres: Bursa Uludağ Üniversitesi Fen-Edebiyat Fakültesi Matematik Bölümü 16059 Görükle-Bursa-TÜRKİYE
+18	Dersin Web Adresi:	
+19	Dersin Amacı	Öğrencilere mühendislik problemlerinin çözümü için yeterli matematik bilgisini vermek ve de öğrencilerin analitik düşünme ve problemlere çözüm üretebilme yeteneğini geliştirmektir.
+20	Dersin Mesleki Gelişime Katkısı:	4 yıl boyunca gerekecek matematik bilgisini kazandırmak.
+
+
+
+21	Ders Öğrenme Kazanımları	
+1	Matematik temel altyapısını hazırlamak;
+2	Matematiğin önemli teoremlerini ve uygulamalarını tanıtmak ;
+3	Mühendislik problemlerinin çözümünde matematiği etkili kullanmayı öğrenmek.;
+4	Limit, türev hesaplamalarını ve uygulamalarını bilmek ;
+5	Diğer dersler için matematik alt yapısı oluşturmak.;
+
+
+
+
+22	Dersin İçeriği
+Hafta	Teori	Uygulama
+1	Kümeler, gerçel sayılar ve özellikleri, mutlak değer ve özellikleri.	Kümeler, gerçel sayılar ve mutlak değer ile ilgili örnekler
+2	Denklem sistemleri, dik koordinat sistemi, bağıntı ve özellikleri.	Denklem sistemleri, dik koordinat sistemi, bağıntı ile ilgili örnekler.
+3	Fonksiyon kavramı ve özel fonksiyonlar (trigonometrik, ters trigonometrik, üstel, logaritmik, hiperbolik, ters hiperbolik).	Fonksiyonlar ile ilgili örnekler.
+4	Konikler (çember, elips, parabol, hiperbol) ve özellikleri.	Konikler ile ilgili örnekler
+5	Kutupsal koordinatlar, parametrik eşitlikler ve özellikleri	Kutupsal koordinatlar, parametrik eşitlikler ile ilgili örnekler
+6	Limit kavramı ve özellikleri	Limit ile ilgili örnekler
+7	Sağ-sol limit, değişkenin sonsuz olması halinde limit ve özellikleri	Sağ-sol limit, değişkenin sonsuz olması halinde limit örnekleri
+8	Süreklilik ve sürekli fonksiyonların özellikleri	Süreklilik ve sürekli fonksiyonların özellikleri ile ilgili örnekler
+9	Türev ve özellikleri	Türev ile ilgili örnekler
+10	Türevin geometrik ve fiziksel yorumu	Türevin geometrik ve fiziksel yorumu ile ilgili örnekler
+11	Türevlenebilir fonksiyonların özellikleri	türevlenebilir fonksiyonların özellikleri ile ilgili örnekler
+12	Diferensiyel, diferensiyellenebilir fonksiyonların özellikleri	Diferensiyel, diferensiyellenebilir fonksiyonların özellikleri ile ilgili örnekler
+13	Artan-azalan fonksiyonlar ve eğrilerin bükeyliği, özellikleri	Artan-azalan fonksiyonlar ve eğrilerin bükeyliği ile ilgili örnekler
+14	Yerel ve mutlak ekstremumlar, ekstremum problemleri, fonksiyon grafikleri.	Yerel ve mutlak ekstremumlar, ekstremum problemleri, fonksiyon grafikleri ile ilgili örnekler.
+
+
+
+23	Ders Kitabı, Referanslar ve/veya Diğer Kaynaklar:
+1-A First Course in Calculus, Serge Lang, World Student Series Third Edition, Addison-Wesley Publishing Company, ISBN:0-201-04148-0
+2-Thomas Calculus, 11.Edition,Pearson Addison-Wesley Publishing Company -2005
+3) Temel Matematik, Basri Çelik, İsmail Naci Cangül, Nisa Çelik, Osman Bizim, Metin Öztürk; Dora Yayınları, 2010
+4) Genel Matematik, Mustafa Balcı, Balcı yayınları, 2003.
+5) Genel Matematik (Diferensiyel ve İntegral Hesap), Ahmet Tekcan, Betül Gezer, Osman Bizim; Dora Yayınları, 2011
+
+
+
+
+24	Değerlendirme	
+YARIYIL İÇİ ÇALIŞMALARI	SAYISI	KATKI YÜZDESİ
+Ara Sınav	1	40
+Kısa Sınav	0	0
+Ödevler, Performanslar	0	0
+Yıl sonu Sınavı	1	60
+Toplam	2	100
+Yıl içi çalışmalarının Başarıya Oranı	40
+Finalin BAşarıya Oranı	60
+Toplam	100
+Derste Kullanılan Ölçme ve Değerlendirme Yaklaşımları	yazılı sınav
+Açıklama
+
+
+
+
+	
+25		AKTS / İŞ YÜKÜ TABLOSU
+Etkinlik	SAYISI	Süresi [Saat]	Toplam İş Yükü [Saat]
+Teorik Dersler	14	3	42
+Uygulamalı Dersler	14	2	28
+Sınıf Dışı Ders Çalışma Süresi (Ön çalışma, pekiştirme)	14	3	42
+Ödevler, Performanslar	0	0	0
+Projeler	0	0	0
+Arazi Çalışmaları	0	0	0
+Arasınavlar	1	7	7
+Diğer	1	21	21
+Yarıyıl Sonu Sınavları	1	28	28
+Toplam İş Yükü			175
+Toplam İş Yükü / 30 saat			5,83
+Dersin AKTS Kredisi			6
+
+
+
+
+26	PROGRAM YETERLİLİKLERİ İLE DERS ÖĞRENİN KAZANIMLARI İLİŞKİSİ TABLOSU
+PY1	PY2	PY3	PY4	PY5	PY6	PY7	PY8	PY9	PY10	PY11	PY12
+OK1	1	2	1	0	0	0	0	0	0	0	0	0
+OK2	1	1	0	1	0	0	0	0	0	0	0	0
+OK3	0	1	2	0	0	0	0	0	0	0	0	0
+OK4	0	1	0	2	0	0	0	0	0	0	0	0
+OK5	0	0	1	0	0	0	0	0	0	0	0	0
+ÖK: Öğrenme Kazanımları	PY: Program yeterlilikleri
+Katkı Düzeyi:	1 Çok Düşük	2 Düşük	3 Orta	4 Yüksek	5 Çok Yüksek
+
+
+
+
+
+Bologna İletişim
+Mail : bologna@uludag.edu.trTasarım & Kodlama
+Bilgi İşlem Daire Başkanlığı © 2015
+otomasyon@uludag.edu.tr
